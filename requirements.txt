@@ -1,0 +1,10 @@
+pandas==2.2.2
+scikit_learn==1.5.1
+tensorflow==2.16.1
+tensorflow_intel==2.16.1
+numpy==1.26.4
+interpret==0.6.1
+matplotlib==3.9.0
+lime==0.2.0.1
+shap==0.45.1
+saliency==0.2.1
